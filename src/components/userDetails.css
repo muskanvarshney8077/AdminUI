@@ -1,0 +1,7 @@
+.selected {
+  border: 1px solid #00a278;
+  background-color: #e9f5e1;
+}
+.not-selected {
+  border: 1px solid #ddd;
+}
